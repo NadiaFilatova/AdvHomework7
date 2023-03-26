@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addresses>
+    <address>
+        <city size="big">Kyiv</city>
+        <street>Main st.</street>
+        <house>10</house>
+    </address>
+    <address>
+        <city size="middle">Mykolaiv</city>
+        <street>Soborna st.</street>
+        <house>56A</house>
+    </address>
+    <address>
+        <city size="big">Lviv</city>
+        <street>Bandera St.</street>
+        <house>100</house>
+    </address>
+    <address>
+        <city size="small">Lutsk</city>
+        <street>Naberezhna st.</street>
+        <house>25</house>
+    </address>
+</addresses>
